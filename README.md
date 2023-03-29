@@ -7,7 +7,7 @@ effects of offering thoughts and prayers after a tragedy.
 All credit to Travis Gerke and his
 [tweet](https://twitter.com/travisgerke/status/1529276517452111872?cxt=HHwWgICjofy4irkqAAAA)
 
-![](/img/kingranch.png)
+![](img/kingranch.png)
 
 ## installation
 
