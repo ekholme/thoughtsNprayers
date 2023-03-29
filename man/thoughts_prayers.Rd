@@ -13,7 +13,5 @@ thoughts_prayers(...)
 This function takes anything you want and returns NULL, just like actual thoughts and prayers. Do better
 }
 \examples{
-\dontrun{
 thoughts_prayers("whatever, man")
-}
 }

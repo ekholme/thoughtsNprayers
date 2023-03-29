@@ -6,9 +6,8 @@
 #'
 #' @export
 #' 
-#' @examples \dontrun{
+#' @examples 
 #' thoughts_prayers("whatever, man")
-#' }
 thoughts_prayers <- function(...) {
     return(NULL)
 }

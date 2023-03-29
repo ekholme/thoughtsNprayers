@@ -1,6 +1,6 @@
 Package: thoughtsNprayers
 Title: Does nothing, like actual thoughts and prayers
-Version: 0.0.0.9000
+Version: 0.0.1
 Authors@R: 
     person("Eric", "Ekholm", , "eric.ekholm@gmail.com", role = c("aut", "cre"))
 Description: This package doesn't solve any problems.
@@ -10,4 +10,4 @@ URL: https://github.com/ekholme/eemisc,
     https://ekholme.github.io/thoughtsNprayers/
 BugReports: https://github.com/ekholme/eemisc/issues
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.3
